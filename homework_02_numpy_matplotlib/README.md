@@ -61,6 +61,13 @@
 ![matplot_ex2](images/matplot_ex2.png)
 
 
+### （3） 模拟一个醉汉在二维空间上的随机漫步。
+例如1维的情况是：
+![random_walk](images/random_walk.png)
+x轴表示步子，y轴表示游走的位置
+
+如果对于二维，则x，y分别是游走的位置。当然也可以画成三维，其中z比表示步子。
+
 
 ## Reference
 * [100 numpy exercises](https://github.com/rougier/numpy-100)
