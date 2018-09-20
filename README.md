@@ -20,13 +20,20 @@ git pull upstream master
 
 ## 作业
 1. [Python基础](homework_01_python/README.md)
+2. [numpy & matplotlib](homework_02_numpy_matplotlib/README.md)
+
+## 报告
+1. [交通事故理赔审核预测](report_01_交通事故理赔审核预测/)
+3. [Titanic](report_03_Titanic/)
 
 
 ## 使用帮助
 
-* [使用码云提交作业的说明](help/gitee_homework_usage.md)
-* [Git快速入门 - Git初体验](https://my.oschina.net/dxqr/blog/134811)
-* [在win7系统下使用TortoiseGit(乌龟git)简单操作Git](https://my.oschina.net/longxuu/blog/141699)
-* [Git系统学习 - 廖雪峰的Git教程](https://my.oschina.net/dxqr/blog/134811)
-
-* [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
+* Git
+  * [使用码云提交作业的说明](help/gitee_homework_usage.md)
+  * [Git使用教程](help/Git使用教程_PILAB.pdf)
+  * [Git快速入门 - Git初体验](https://my.oschina.net/dxqr/blog/134811)
+  * [在win7系统下使用TortoiseGit(乌龟git)简单操作Git](https://my.oschina.net/longxuu/blog/141699)
+  * [Git系统学习 - 廖雪峰的Git教程](https://my.oschina.net/dxqr/blog/134811)
+* Markdown
+  * [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
