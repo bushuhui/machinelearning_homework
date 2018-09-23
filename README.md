@@ -14,6 +14,12 @@
 git remote add upstream git@gitee.com:machinelearning2018/pr_homework.git
 git pull upstream master
 ```
+6. 在本目录新建一个`name.txt`文件（UTF-8编码），写下自己的名字和学号，例如
+```
+布树辉
+2011010101
+```
+
 
 大家提交作业后，我会在大家的项目里写入批注、建议等等，从而构建良好的反馈机制，能够更有效的取得学习效果。
 
