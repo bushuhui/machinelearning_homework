@@ -14,6 +14,12 @@
 git remote add upstream git@gitee.com:machinelearning2018/pr_homework.git
 git pull upstream master
 ```
+6. 在本目录新建一个`name.txt`文件（UTF-8编码），写下自己的名字和学号，例如
+```
+布树辉
+2011010101
+```
+
 
 大家提交作业后，我会在大家的项目里写入批注、建议等等，从而构建良好的反馈机制，能够更有效的取得学习效果。
 
@@ -35,6 +41,6 @@ git pull upstream master
   * [Git使用教程](help/Git使用教程_PILAB.pdf)
   * [Git快速入门 - Git初体验](https://my.oschina.net/dxqr/blog/134811)
   * [在win7系统下使用TortoiseGit(乌龟git)简单操作Git](https://my.oschina.net/longxuu/blog/141699)
-  * [Git系统学习 - 廖雪峰的Git教程](https://my.oschina.net/dxqr/blog/134811)
+  * [Git系统学习 - 廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * Markdown
   * [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
