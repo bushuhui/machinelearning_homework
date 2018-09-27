@@ -27,6 +27,9 @@ git pull upstream master
 ## 作业
 1. [Python基础](homework_01_python/README.md)
 2. [numpy & matplotlib](homework_02_numpy_matplotlib/README.md)
+3. [kmeans](homework_03_kmeans/)
+4. [logistic regression](homework_04_logistic_regression)
+
 
 ## 报告
 1. [交通事故理赔审核预测](report_01_交通事故理赔审核预测/)
