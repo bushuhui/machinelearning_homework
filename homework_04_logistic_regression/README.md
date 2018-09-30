@@ -26,6 +26,6 @@ for i in range(64):
 ```
 
 要求：
-1. 自己编程实现Logistic Regression的多分了。
+1. 自己编程实现Logistic Regression的多分类。
 2. 对比自己实现与sklearn的方法的精度。
 3. 如何将分类错误的样本可视化出来？
