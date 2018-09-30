@@ -4,7 +4,10 @@
 
 关于如何提交作业，如何使用git，markdown等等，可以参考下面使用帮助。
 
-具体的操作步骤：
+
+
+**具体的操作步骤：**
+
 1. 大家fork这个项目到自己的项目
 2. 然后git clone自己的项目到本地机器
 3. 在作业的目录里写入各自的代码、报告等。
@@ -24,16 +27,23 @@ git pull upstream master
 大家提交作业后，我会在大家的项目里写入批注、建议等等，从而构建良好的反馈机制，能够更有效的取得学习效果。
 
 
+
 ## 作业
+
 1. [Python基础](homework_01_python/README.md)
 2. [numpy & matplotlib](homework_02_numpy_matplotlib/README.md)
 3. [kmeans](homework_03_kmeans/)
 4. [logistic regression](homework_04_logistic_regression)
+5. [neural networks](homework_05_nn/)
+
 
 
 ## 报告
+
 1. [交通事故理赔审核预测](report_01_交通事故理赔审核预测/)
-3. [Titanic](report_03_Titanic/)
+2. [Titanic](report_02_Titanic/)
+3. [Fashion](report_03_Fashion/)
+
 
 
 ## 使用帮助
