@@ -53,3 +53,11 @@ One is always on a strange road, watching strange scenery and listening to stran
 你有个目录，里面是程序（假如是C或者是Python），统计一下你写过多少行代码。包括空行和注释，但是要分别列出来。
 
 
+
+## References
+* [Python 练习册，每天一个小程序](https://github.com/Yixiaohan/show-me-the-code)
+* [70个python练手项目](practice_projects.md)
+* [PythonExercises](https://github.com/greyli/PythonExercises)
+* [Python Challenge](http://www.pythonchallenge.com)
+* [Python 100例](http://www.runoob.com/python/python-100-examples.html)
+* [Python练习题](https://blog.csdn.net/qq_28356833/article/details/54963342)
