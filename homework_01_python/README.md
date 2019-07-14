@@ -40,16 +40,37 @@ One is always on a strange road, watching strange scenery and listening to stran
 1, 10, 4, 2, 9, 2, 34, 5, 9, 8, 5, 0
 ```
 
-### （7）应用1
+### (7)  算法2
+编写一个高效的算法来搜索 m x n 矩阵 matrix 中的一个目标值 target。该矩阵具有以下特性：
+* 每行的元素从左到右升序排列。
+* 每列的元素从上到下升序排列。
+
+示例:
+现有矩阵 matrix 如下：
+```
+[
+[1, 4, 7, 11, 15],
+[2, 5, 8, 12, 19],
+[3, 6, 9, 16, 22],
+[10, 13, 14, 17, 24],
+[18, 21, 23, 26, 30]
+]
+```
+
+* 给定 target = 5，返回 true。
+* 给定 target = 20，返回 false。
+
+
+### （8）应用1
 做为 Apple Store App 独立开发者，你要搞限时促销，为你的应用生成激活码（或者优惠券），使用 Python 如何生成 200 个激活码（或者优惠券）？
 
 需要考虑什么是激活码？有什么特性？例如`KR603guyVvR`是一个激活码
 
-### （8）应用2
+### （9）应用2
 需要把某个目录下面所有的某种类型的文件找到。
 例如把`c:`下面所有的`.dll`文件找到
 
-### （9）应用3
+### （10）应用3
 你有个目录，里面是程序（假如是C或者是Python），统计一下你写过多少行代码。包括空行和注释，但是要分别列出来。
 
 
@@ -61,3 +82,4 @@ One is always on a strange road, watching strange scenery and listening to stran
 * [Python Challenge](http://www.pythonchallenge.com)
 * [Python 100例](http://www.runoob.com/python/python-100-examples.html)
 * [Python练习题](https://blog.csdn.net/qq_28356833/article/details/54963342)
+* [python实现 66道算法题](https://blog.csdn.net/u012193416/article/details/79253398)
