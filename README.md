@@ -47,14 +47,12 @@ git pull upstream master
 
 
 ## 使用帮助
-
-* [使用码云提交作业的说明](help/gitee_homework_usage.md)
 * [学习资料的汇总](https://gitee.com/pi-lab/machinelearning_notebook/blob/master/References.md)
 * Git
-  * [Git使用教程](help/Git使用教程_PILAB.pdf)
   * [Git快速入门 - Git初体验](https://my.oschina.net/dxqr/blog/134811)
   * [在win7系统下使用TortoiseGit(乌龟git)简单操作Git](https://my.oschina.net/longxuu/blog/141699)
   * [Git系统学习 - 廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+  * [PILAB的Git使用教程](help/Git使用教程_PILAB.pdf)
 * Markdown
   * [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
 
