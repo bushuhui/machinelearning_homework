@@ -14,7 +14,7 @@
 4. 通过`git push ...`上传作业到自己的项目里
 5. 由于本作业会更新因此需要更新到最新的版本，可以如下操作
 ```
-git remote add upstream git@gitee.com:machinelearning2018/pr_homework.git
+git remote add upstream git@gitee.com:pi-lab/machinelearning_homework.git
 git pull upstream master
 ```
 6. 在本目录新建一个`name.txt`文件（UTF-8编码），写下自己的名字和学号，例如

@@ -4,15 +4,21 @@
 ## Python
 
 ###  （1）字符串
-给定一个文章，找出每个单词的出现次数
+给定一个文章，找出每个单词的出现次数。例如给定下面的一篇短文，进行操作。
 
 ```
 One is always on a strange road, watching strange scenery and listening to strange music. Then one day, you will find that the things you try hard to forget are already gone. 
 ```
 
+**深入思考：**
+* 写完程序之后反思一下，如果单词之间是两个空格，或者是`\t`的情况下程序会不会有问题？
+* 标点符号如果出现`?`，`/`等和单词挨着，该如何处理？
+
 ### （2）组合
 有 1、2、3、4 个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？
 
+**深入思考：**
+* 算法复杂度是？
 
 ### （3） 判断
 企业发放的奖金根据利润提成。利润(I)： 
@@ -24,12 +30,20 @@ One is always on a strange road, watching strange scenery and listening to stran
 * 高于 100 万元时， 超过 100 万元的部分按 1%提成， 
 从键盘输入当月利润 I，求应发放奖金总数？
 
+**深入思考：**
+* 除了用`if`手写，能否用其他方式（例如用list，然后自动实现所有的判断）来实现？
+
 
 ### （4）循环
 输出9x9的乘法口诀表
 
+**深入思考：**
+* 如何对齐，看着更清楚？
 
 ### （5）使用while循环实现输出2-3+4-5+6.....+100的和
+
+**深入思考：**
+* 除了直接的方法，能否用一句话写完？
 
 
 ### （6）算法
@@ -68,14 +82,16 @@ One is always on a strange road, watching strange scenery and listening to stran
 
 ### （9）应用2
 需要把某个目录下面所有的某种类型的文件找到。
-例如把`c:`下面所有的`.dll`文件找到
+例如把`c:`下面所有的`.dll`文件找到。*需要注意的是，需要递归到每一个目录去查找。*
 
 ### （10）应用3
-你有个目录，里面是程序（假如是C或者是Python），统计一下你写过多少行代码。包括空行和注释，但是要分别列出来。
+你有个目录，里面是程序（假如是C或者是Python），统计一下你写过多少行代码。包括空行和注释，但是要分别（例如C程序多少行，Python程序多少行，等等）列出来。
 
 
 
 ## References
+上面的程序只是简单的练练手，仅仅通过上面的程序练习还是不够的，大家需要更多的程序练习才能把Python学好，下面是一些参考的练习题，大家可以挑选一些去做做。
+
 * [Python 练习册，每天一个小程序](https://github.com/Yixiaohan/show-me-the-code)
 * [70个python练手项目](practice_projects.md)
 * [PythonExercises](https://github.com/greyli/PythonExercises)
@@ -83,3 +99,4 @@ One is always on a strange road, watching strange scenery and listening to stran
 * [Python 100例](http://www.runoob.com/python/python-100-examples.html)
 * [Python练习题](https://blog.csdn.net/qq_28356833/article/details/54963342)
 * [python实现 66道算法题](https://blog.csdn.net/u012193416/article/details/79253398)
+
