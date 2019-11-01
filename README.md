@@ -1,58 +1,56 @@
-# 机器学习 - 作业
+# Machine Learning - Homework and Report
 
-课程的学习资料在[这里](https://gitee.com/pi-lab/machinelearning_notebook)。由于这门课程需要大量的编程、练习才能学好，因此需要大家积极的把作业做好，通过作业、练习来牵引学习、提高解决问题的能力、提高自学能力等，这样才能扎实的把这门科学好。
+* [中文说明](README_CN.md)
 
-关于如何提交作业，如何使用git，markdown等等，可以参考下面使用帮助。
+This material is the homework and report for course [<<Machine Learning>>](https://gitee.com/pi-lab/machinelearning_notebook). To master the course better, it is necessary to do programming practices, therefore, everyone need to do the homework and report diligently. Through these practices capabilities of problem solving of self learning can be boosted. 
+
+Please refer following help for submitting homework/report, also instructions of `git` and `markdown` are also included.
 
 
+**Submitting Instructions：**
 
-**具体的操作步骤：**
-
-1. 大家fork这个项目到自己的项目
-2. 然后git clone自己的项目到本地机器
-3. 在作业的目录里写入各自的代码、报告等。
-4. 通过`git push ...`上传作业到自己的项目里
-5. 由于本作业会更新因此需要更新到最新的版本，可以如下操作
+1. Fork the project to your project
+2. Use `git clone` to download the forked project
+3. Write your code and report into the corresponding directories
+4. Upload your code & report through `git push ...`
+5. If the homework or report are updated by teacher, you can do the following steps to newest version
 ```
 git remote add upstream git@gitee.com:pi-lab/machinelearning_homework.git
 git pull upstream master
 ```
-6. 在本目录新建一个`name.txt`文件（UTF-8编码），写下自己的名字和学号，例如
+6. Create a file named with `name.txt` (UTF-8 encoding) under the root directory of the project. Please write your name and ID as:
 ```
-布树辉
+Shuhui Bu
 2011010101
 ```
 
 
-大家提交作业后，我会在大家的项目里写入批注、建议等等，从而构建良好的反馈机制，能够更有效的取得学习效果。
+
+## Homework
+
+1. [Python](homework_01_python/README_EN.md)
+2. [numpy & matplotlib](homework_02_numpy_matplotlib/README_EN.md)
+3. [kmeans](homework_03_kmeans/README_EN.md)
+4. [logistic regression](homework_04_logistic_regression/README_EN.md)
+5. [neural networks](homework_05_nn/README_EN.md)
 
 
 
-## 作业
+## Report
 
-1. [Python基础](homework_01_python/README.md)
-2. [numpy & matplotlib](homework_02_numpy_matplotlib/README.md)
-3. [kmeans](homework_03_kmeans/)
-4. [logistic regression](homework_04_logistic_regression)
-5. [neural networks](homework_05_nn/)
+1. [Traffic accident claims review forecast](report_01_accident_claims/README_EN.md)
+2. [Titanic](report_02_Titanic/README_EN.md)
+3. [Fashion](report_03_Fashion/README_EN.md)
 
 
 
-## 报告
-
-1. [交通事故理赔审核预测](report_01_交通事故理赔审核预测/)
-2. [Titanic](report_02_Titanic/)
-3. [Fashion](report_03_Fashion/)
-
-
-
-## 使用帮助
-* [学习资料的汇总](https://gitee.com/pi-lab/machinelearning_notebook/blob/master/References.md)
+## Manuals/Tutorials
+* [List of References](https://gitee.com/pi-lab/machinelearning_notebook/blob/master/References.md)
 * Git
-  * [Git快速入门 - Git初体验](https://my.oschina.net/dxqr/blog/134811)
-  * [在win7系统下使用TortoiseGit(乌龟git)简单操作Git](https://my.oschina.net/longxuu/blog/141699)
-  * [Git系统学习 - 廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-  * [PILAB的Git使用教程](help/Git使用教程_PILAB.pdf)
+  * [Quick to learn Git](https://my.oschina.net/dxqr/blog/134811)
+  * [TortoiseGit on Windows](https://my.oschina.net/longxuu/blog/141699)
+  * [Complete Git course](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+  * [Git tutorial from PILAB](help/Git使用教程_PILAB.pdf)
 * Markdown
-  * [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
+  * [Markdown for beginer](https://www.jianshu.com/p/1e402922ee32)
 
