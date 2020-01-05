@@ -41,7 +41,7 @@ Shuhui Bu
 1. [Traffic accident claims review forecast](report_01_accident_claims/README_EN.md)
 2. [Titanic](report_02_Titanic/README_EN.md)
 3. [Fashion](report_03_Fashion/README_EN.md)
-
+3. [Tetris](report_04_Tetris/README.md)
 
 
 ## Manuals/Tutorials

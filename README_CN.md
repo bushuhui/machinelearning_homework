@@ -45,7 +45,7 @@ git pull upstream master
 1. [交通事故理赔审核预测](report_01_accident_claims/README.md)
 2. [Titanic](report_02_Titanic/README.md)
 3. [Fashion](report_03_Fashion/README.md)
-
+3. [Tetris](report_04_Tetris/README.md)
 
 
 ## 使用帮助
