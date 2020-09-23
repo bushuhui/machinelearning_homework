@@ -1,6 +1,6 @@
 # Machine Learning - Homework and Report
 
-* [中文说明](README_CN.md)
+* [中文说明](README.md)
 
 This material is the homework and report for course [Machine Learning](https://gitee.com/pi-lab/machinelearning_notebook). To master the course better, it is necessary to do programming practices, therefore, everyone need to do the homework and report diligently. Through these practices capabilities of problem solving of self learning can be boosted. 
 
