@@ -39,15 +39,24 @@ Shuhui Bu
 ## Report
 
 1. [Traffic accident claims review forecast](report_01_accident_claims/README_EN.md)
+
 2. [Titanic](report_02_Titanic/README_EN.md)
+
 3. [Fashion](report_03_Fashion/README_EN.md)
-3. [Tetris](report_04_Tetris/README.md)
+
+4. [Tetris](report_04_Tetris/README.md)
+
+5. [Jigsaw-Puzzle](report_05_Jigsaw-Puzzle)
+
+6. [Sudoku](report_06_Sudoku)
+
+   
 
 
 ## Manuals/Tutorials
 * [List of References](https://gitee.com/pi-lab/machinelearning_notebook/blob/master/References.md)
-* Git
-  * [Quick to learn Git](https://my.oschina.net/dxqr/blog/134811)
+* [Git](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git)
+  * (https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/git/git-tips.md)
   * [TortoiseGit on Windows](https://my.oschina.net/longxuu/blog/141699)
   * [Complete Git course](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
   * [Git tutorial from PILAB](help/Git使用教程_PILAB.pdf)
