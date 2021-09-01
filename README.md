@@ -2,9 +2,9 @@
 
 * [English Description](README.EN.md)
 
-课程的学习资料在[这里](https://gitee.com/pi-lab/machinelearning_notebook)。由于这门课程需要大量的编程、练习才能学好，因此需要大家积极把作业做好，通过作业、练习来牵引学习、提高解决问题的能力、自学等能力。
+课程的讲义等学习资料在[《机器学习》在线网站](https://gitee.com/pi-lab/machinelearning_notebook)。由于这门课程需要大量的编程、练习才能学好，因此需要大家积极把作业做好，通过作业、练习来牵引学习、提高解决问题的能力、自学等能力。
 
-关于如何提交作业，如何使用git，markdown等等，可以参考下面使用帮助。
+关于如何提交作业，如何使用[Git](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)，[Markdown](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/markdown/README.md)等等，可以参考各自的教程和使用帮助。
 
 
 
@@ -55,11 +55,5 @@ git pull upstream master
 ## 使用帮助
 
 * [学习资料的汇总](https://gitee.com/pi-lab/machinelearning_notebook/blob/master/References.md)
-* [Git](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git)
-  * [Git快速入门 - Git初体验](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/git/git-tips.md)
-  * [在win7系统下使用TortoiseGit(乌龟git)简单操作Git](https://my.oschina.net/longxuu/blog/141699)
-  * [Git系统学习 - 廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-  * [PILAB的Git使用教程](help/Git使用教程_PILAB.pdf)
-* Markdown
-  * [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32)
-
+* [Git教程](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)
+* [Markdown教程](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/markdown/README.md)
