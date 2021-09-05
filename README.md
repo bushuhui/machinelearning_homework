@@ -1,6 +1,6 @@
 # 机器学习 - 作业与报告
 
-* [English Description](README.EN.md)
+* [English Description](README_ENG.md)
 
 课程的讲义等学习资料在[《机器学习》在线网站](https://gitee.com/pi-lab/machinelearning_notebook)。由于这门课程需要大量的编程、练习才能学好，因此需要大家积极把作业做好，通过作业、练习来牵引学习、提高解决问题的能力、自学等能力。
 
