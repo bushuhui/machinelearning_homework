@@ -13,18 +13,20 @@
 
 1. [大家fork这个项目到自己的项目](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/git/HowToForkClone.md)
 2. [然后git clone自己的项目到本地机器](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/git/HowToForkClone.md)
-3. 在作业的目录里写入各自的代码、报告等。
-4. 通过`git push ...`上传作业到自己的项目里
-5. 由于本作业会更新因此需要更新到最新的版本，可以如下操作
-```
-git remote add upstream git@gitee.com:pi-lab/machinelearning_homework.git
-git pull upstream master
-```
-6. 在本目录新建一个`name.txt`文件（UTF-8编码），写下自己的名字和学号，例如
+3. 在本目录新建一个`name.txt`文件（UTF-8编码），写下自己的名字和学号，例如
 ```
 布树辉
 2011010101
 ```
+4. 在作业的目录里写入各自的代码、报告等。
+5. 将增加、修改的文件提交到本地
+```
+git add -A
+git commit -m "change description"
+```
+6. 通过`git push origin master`上传作业到自己的项目里
+    - 其中`origin`是远端服务器的名字
+    - `master`是git分支的名字（默认是master)
 
 
 大家提交作业后，我会在大家的项目里写入批注、建议等等，从而构建良好的反馈机制，能够更有效的取得学习效果。
