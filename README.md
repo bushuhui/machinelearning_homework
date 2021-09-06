@@ -8,7 +8,6 @@
 
 
 
-
 **具体的操作步骤：**
 
 1. [大家fork这个项目到自己的项目](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/git/HowToForkClone.md)
@@ -28,6 +27,9 @@ git commit -m "change description"
     - 其中`origin`是远端服务器的名字
     - `master`是git分支的名字（默认是master)
 
+
+
+更多关于Git的用法可以阅读 [Git教程](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)
 
 大家提交作业后，我会在大家的项目里写入批注、建议等等，从而构建良好的反馈机制，能够更有效的取得学习效果。
 
