@@ -1,4 +1,4 @@
-# Neural Networks
+# Homework 05 - Neural Networks
 
 自己编程实现两层或多层全连接神经网络，可以使用`moons` 、`circles`、或者`digits`数据集来测试、验证算法。
 
@@ -66,7 +66,7 @@ for i in range(64):
 
 1. 先用函数的方式实现网络的正向计算和反向误差传播，权值更新。
 2. 构思并实现基于类的神经网络程序。
-3. 构建多分类的网络（可以使用`dataset_digits`）
+3. 构建多分类的网络（可以使用`dataset_digits`）。
 4. 学习`softmax`和`cross entropy`的方法，并实现类别所属概率的输出。
 5. 对比自己实现与sklearn的方法的精度。
 6. 如何将分类错误的样本可视化出来？

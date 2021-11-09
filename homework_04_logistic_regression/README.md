@@ -1,4 +1,4 @@
-# Logistic Regression
+# Homework 04 - Logistic Regression
 
 自己编程实现Logistic Regression的多分类问题。使用的数据可以是sklearn的digital数据。
 

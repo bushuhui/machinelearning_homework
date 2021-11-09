@@ -1,8 +1,8 @@
-# 机器学习 - 作业与报告
+# 机器学习与人工智能 - 作业与报告
 
 * [English Description](README_ENG.md)
 
-课程的讲义等学习资料在[《机器学习》在线网站](https://gitee.com/pi-lab/machinelearning_notebook)，课程讲座的视频在[《B站 - 机器学习》](https://www.bilibili.com/video/BV1oZ4y1N7ei/)。由于这门课程需要大量的编程、练习才能学好，因此需要大家积极把作业做好，通过作业、练习来牵引学习、提高解决问题的能力、自学等能力。
+课程的讲义等学习资料在[《机器学习与人工智能》在线网站](https://gitee.com/pi-lab/machinelearning_notebook)，课程讲座的视频在[《B站 - 机器学习与人工智能》](https://www.bilibili.com/video/BV1oZ4y1N7ei/)。由于这门课程需要大量的编程、练习才能学好，因此需要大家积极把作业做好，通过作业、练习来牵引学习、提高解决问题的能力、自学等能力。
 
 关于如何提交作业，如何使用[Git](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)，[Markdown](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/markdown/README.md)等等，可以参考各自的教程和使用帮助。
 
@@ -51,7 +51,7 @@ git commit -m "change description"
 
 1. [Python基础](homework_01_python/README.md)
 2. [numpy & matplotlib](homework_02_numpy_matplotlib/README.md)
-3. [kmeans](homework_03_kmeans/README.md)
+3. [kMeans](homework_03_kmeans/README.md)
 4. [logistic regression](homework_04_logistic_regression/README.md)
 5. [neural networks](homework_05_nn/README.md)
 
@@ -63,13 +63,13 @@ git commit -m "change description"
 2. [Titanic](report_02_Titanic/README.md)
 3. [Fashion](report_03_Fashion/README.md)
 4. [Tetris](report_04_Tetris/README.md)
-5. [Jigsaw-Puzzle](report_05_Jigsaw-Puzzle)
-6. [Sudoku](report_06_Sudoku)
+5. [Jigsaw-Puzzle](report_05_Jigsaw-Puzzle/README.md)
+6. [Sudoku](report_06_Sudoku/README.md)
 
 
 
 ## 5. 使用帮助
 
-* [学习资料的汇总](https://gitee.com/pi-lab/machinelearning_notebook/blob/master/References.md)
+* [学习资料汇总](https://gitee.com/pi-lab/machinelearning_notebook/blob/master/References.md)
 * [Git教程](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)
 * [Markdown教程](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/markdown/README.md)
