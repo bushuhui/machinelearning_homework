@@ -50,10 +50,10 @@ git commit -m "change description"
 ## 3. 作业
 
 1. [Python基础](homework_01_python/README.md)
-2. [numpy & matplotlib](homework_02_numpy_matplotlib/README.md)
+2. [Numpy & Matplotlib](homework_02_numpy_matplotlib/README.md)
 3. [kMeans](homework_03_kmeans/README.md)
-4. [logistic regression](homework_04_logistic_regression/README.md)
-5. [neural networks](homework_05_nn/README.md)
+4. [Logistic Regression](homework_04_logistic_regression/README.md)
+5. [Neural Networks](homework_05_nn/README.md)
 
 
 

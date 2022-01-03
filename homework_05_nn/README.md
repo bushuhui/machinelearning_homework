@@ -62,6 +62,8 @@ for i in range(64):
     ax.text(0, 7, str(digits.target[i]))
 ```
 
+
+
 **要求**：
 
 1. 先用函数的方式实现网络的正向计算和反向误差传播，权值更新。

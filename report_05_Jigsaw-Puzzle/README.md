@@ -1,6 +1,5 @@
 # Report5 - 拼图游戏
 
-## 任务介绍
 拼图游戏是广受欢迎的一种智力游戏，它的变化多端，难度不一。拼图游戏也有置换不变性，不管拼图的顺序是什么，输出总是固定的。下面是一个2x2的网格难题的例子，我们将在这个项目中尝试解决它。
 
 ![Jigsaw-Puzzle_demo1.png](images/Jigsaw-Puzzle_demo1.png)
@@ -16,7 +15,10 @@
 
 为了让大家学习如何使用卷积神经网络，首先尝试解决一个2x2的拼图游戏。
 
+
+
 ## 数据
+
 这个数据集包含2x2和3x3的puzzle。你可以在这里找到它。
 
 https://www.kaggle.com/shivajbd/jigsawpuzzle
@@ -25,15 +27,20 @@ https://www.kaggle.com/shivajbd/jigsawpuzzle
 
 ![Jigsaw-Puzzle_sample-data](images/Jigsaw-Puzzle_sample-data.png)
 
+
+
 ## 要求
 
-1. 分析拼图游戏的特点，设计实现的方法
-2. 在Kaggle网站上，下载数据
-3. 编写神经网络代码，测试自己算法的效果如何
-4. 测试所研究方法的效果
-5. 分析自己实现的方法的问题，以及如何改进
+1. 分析拼图游戏的特点，设计实现的方法。
+2. 在Kaggle网站上，下载数据（如果无法访问网站，则需要学习如何科学上网）。
+3. 编写神经网络代码，测试自己算法的效果如何。
+4. 测试所研究方法的效果。
+5. 分析自己实现的方法的问题，以及如何改进。
 6. 深入思考，如何解决3x3的拼图？或者更大的拼图？
 7. 按照`report_template.ipynb`撰写自己的报告。
 
+
+
 ## References
+
 * https://www.kaggle.com/shivajbd/jigsawpuzzle

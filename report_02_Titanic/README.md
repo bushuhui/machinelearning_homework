@@ -1,6 +1,5 @@
 # Report 2 - Titanic
 
-## Task Description
 The sinking of the [RMS Titanic](https://en.wikipedia.org/wiki/RMS_Titanic) is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
@@ -53,7 +52,7 @@ We also include `gender_submission.csv`, a set of predictions that assume all an
 * Design the classification model, implement the code
 * Think methods to resolve the problem of missing data of some column
 * How to convert the `pclass`, `embarked` fields to vector field
-* Submit your result to [the website](https://www.kaggle.com/c/titanic)
+* Submit your result to [the website](https://www.kaggle.com/c/titanic) (如果不能访问这个网站，则想办法如何科学上网)
 * Finish the report by using the template `report_template.ipynb`
 * Submit code, report through `git`
 

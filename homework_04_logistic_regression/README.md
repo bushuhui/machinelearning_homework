@@ -25,7 +25,10 @@ for i in range(64):
     ax.text(0, 7, str(digits.target[i]))
 ```
 
-要求：
+
+
+**要求：**
+
 1. 自己编程实现Logistic Regression的多分类。
 2. 对比自己实现与sklearn的方法的精度。
 3. 如何将分类错误的样本可视化出来？
