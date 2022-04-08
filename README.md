@@ -79,3 +79,12 @@ git commit -m "change description"
 * [学习资料汇总](https://gitee.com/pi-lab/machinelearning_notebook/blob/master/References.md)
 * [Git教程](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)
 * [Markdown教程](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/markdown/README.md)
+
+
+
+## 6. 参考
+
+* https://blog.csdn.net/ChenVast/article/details/81238244
+
+* https://zhuanlan.zhihu.com/p/37100157
+* https://edu.cda.cn/article/233
