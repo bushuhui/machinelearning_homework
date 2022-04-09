@@ -65,12 +65,13 @@ git commit -m "change description"
 
 ## 4. 报告
 
-1. [房价预测](report_01_Price_Prediction/README.md)
-2. [Titanic](report_02_Titanic/README.md)
-3. [Fashion](report_03_Fashion/README.md)
-4. [Tetris](report_04_Tetris/README.md)
-5. [Jigsaw-Puzzle](report_05_Jigsaw-Puzzle/README.md)
-6. [Sudoku](report_06_Sudoku/README.md)
+0. [自己的研究如何应用机器学习（选做题）](report_00_Self_Research/README.md)
+2. [房价预测](report_01_Price_Prediction/README.md)
+3. [Titanic](report_02_Titanic/README.md)
+4. [Fashion](report_03_Fashion/README.md)
+5. [Tetris](report_04_Tetris/README.md)
+6. [Jigsaw-Puzzle](report_05_Jigsaw-Puzzle/README.md)
+7. [Sudoku](report_06_Sudoku/README.md)
 
 
 
