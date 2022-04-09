@@ -8,7 +8,7 @@
 
 由于这门课程需要大量的编程、练习才能学好，因此需要大家积极把作业做好，通过作业、练习来牵引学习、提高解决问题的能力、自学等能力。
 
-关于如何提交作业，如何使用[Git](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)，[Markdown](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/markdown/README.md)等等，可以参考各自的教程和使用帮助。
+关于如何提交作业，如何使用[《Git》](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)，[《Markdown》](https://gitee.com/pi-lab/learn_programming/blob/master/6_tools/markdown/README.md)等等，可以参考各自的教程和使用帮助。
 
 * [English Description](README_ENG.md)
 
@@ -47,7 +47,7 @@ git commit -m "change description"
 
 
 
-更多关于Git的用法可以阅读 [Git教程](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)
+更多关于Git的用法可以阅读 [《Git教程》](https://gitee.com/pi-lab/learn_programming/tree/master/6_tools/git/README.md)
 
 大家提交作业后，我会在大家的项目里写入批注、建议等等，从而构建良好的反馈机制，能够更有效的取得学习效果。
 
@@ -65,7 +65,7 @@ git commit -m "change description"
 
 ## 4. 报告
 
-1. [交通事故理赔审核预测](report_01_accident_claims/README.md)
+1. [房价预测](report_01_Price_Prediction/README.md)
 2. [Titanic](report_02_Titanic/README.md)
 3. [Fashion](report_03_Fashion/README.md)
 4. [Tetris](report_04_Tetris/README.md)
@@ -88,3 +88,4 @@ git commit -m "change description"
 * https://zhuanlan.zhihu.com/p/37100157
 * https://edu.cda.cn/article/233
 * https://blog.csdn.net/Yong_Qi2015/article/details/124012141
+* https://aistudio.baidu.com/aistudio/datasetoverview/
