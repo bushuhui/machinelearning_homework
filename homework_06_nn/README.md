@@ -1,4 +1,4 @@
-# Homework 05 - Neural Networks
+# Homework 06 - Neural Networks
 
 自己编程实现两层或多层全连接神经网络，可以使用`moons` 、`circles`、或者`digits`数据集来测试、验证算法。
 

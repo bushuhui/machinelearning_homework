@@ -1,4 +1,4 @@
-## Homework 03 - kMeans
+## Homework 04 - kMeans
 
 自己编写kMeans方法，并使用下面的数据来做聚类
 
